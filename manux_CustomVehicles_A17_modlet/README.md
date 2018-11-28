@@ -1,9 +1,10 @@
 <!--Read this in github to have all the visuals and formatting: https://github.com/manux32/7d2d_A17_sdx_mods/tree/master/manux_CustomVehicles_A17_modlet-->
 
 # A17 Custom Vehicles modlet
-| ![img](manux_CustomVehicles_A17_modlet/ItemIcons/manux_RoadHog.png) | ![img](manux_CustomVehicles_A17_modlet/ItemIcons/manux_HellGoatBike.png) | ![img](manux_CustomVehicles_A17_modlet/ItemIcons/manux_Quad.png) | ![img](manux_CustomVehicles_A17_modlet/ItemIcons/manux_CicadaCar.png) | ![img](manux_CustomVehicles_A17_modlet/ItemIcons/manux_HP4x4Truck.png) |  
+| ![img](ItemIcons/manux_RoadHog.png) | ![img](ItemIcons/manux_HellGoatBike.png) | ![img](ItemIcons/manux_Quad.png) | ![img](ItemIcons/manux_CicadaCar.png) | ![img](ItemIcons/manux_HP4x4Truck.png) |  
 |:---:|:---:|:---:|:---:|:---:|  
-| Dust2Death's Road Hog | Hell Goat Bike | Quad | Cicada Car | HP 4x4 Truck |
+| Dust2Death's Road Hog | Hell Goat Bike | Quad | Cicada Car | HP 4x4 Truck |  
+  
 
 This is currently an XML-only A17 modlet that features some of my [**A16 Custom Vehicles**](https://github.com/manux32/7dtdSdxMods/tree/master/Manux_CustomVehicles).  
 It does not contain all the features I have in my A16 mod. I will not port my full Custom Vehicles mod until A17 stable ships.  
@@ -15,7 +16,7 @@ It does not contain all the features I have in my A16 mod. I will not port my fu
 |A17 - First custom Vehicle Test|   
 
 # Terms of use  
-Since I now have all the information regarding the purchased Assets I have in my mod, here is the new Terms of Use for this mod:  
+
 ## License
 **Creative Commons**  
 **Attribution-NonCommercial 4.0**  
