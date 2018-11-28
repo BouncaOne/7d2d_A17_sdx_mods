@@ -3,7 +3,7 @@
 		<!-- Information about the Mod, the author and version information -->
 		<!-- These are displayed in the SDX Launcher -->
 		<author>manux</author>
-		<name>Manux Custom Vehicles A17 modlet</name>
+		<name>manux_CustomVehicles_A17_modlet</name>
 		<description>An XML-only Custom Vehicles modlet that adds some of the Vehicles from my A16 mod</description>
 		<mod_version>1.0</mod_version>
 		<game_version>17e</game_version>
