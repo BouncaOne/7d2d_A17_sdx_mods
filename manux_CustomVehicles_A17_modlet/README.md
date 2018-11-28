@@ -10,7 +10,7 @@ This is currently an XML-only A17 modlet that features some of my [**A16 Custom 
 It does not contain all the features I have in my A16 mod. I will not port my full Custom Vehicles mod until A17 stable ships.  
 
 ## Vids
-### 1st early A17 Custom Vehicle test
+### 1st early A17 Custom Vehicle test...  More vids coming soon...
 | [![driveable cars](http://img.youtube.com/vi/DFgJ6jnk9gA/0.jpg)](https://youtu.be/DFgJ6jnk9gA "A17 - First custom Vehicle Test") |  
 |:---:|   
 |A17 - First custom Vehicle Test|   
