@@ -1,6 +1,6 @@
 <!--Read this in github to have all the visuals and formatting: https://github.com/manux32/7d2d_A17_sdx_mods/tree/master/manux_CustomVehicles_A17_modlet-->
 
-# A17 Custom Vehicles modlet
+# A17 Custom Vehicles modlet (SDX Version)
 | ![img](ItemIcons/manux_RoadHog.png) | ![img](ItemIcons/manux_HellGoatBike.png) | ![img](ItemIcons/manux_Quad.png) | ![img](ItemIcons/manux_CicadaCar.png) | ![img](ItemIcons/manux_HP4x4Truck.png) |  
 |:---:|:---:|:---:|:---:|:---:|  
 | Dust2Death's Road Hog | Hell Goat Bike | Quad | Cicada Car | HP 4x4 Truck |  
@@ -8,6 +8,10 @@
 
 This is currently an XML-only A17 modlet that features some of my [**A16 Custom Vehicles**](https://github.com/manux32/7dtdSdxMods/tree/master/Manux_CustomVehicles).  
 It does not contain all the features I have in my A16 mod. I will not port my full Custom Vehicles mod until A17 stable ships.  
+
+# Installation
+This is the SDX version of this modlet. Use [**A17 SDX Launcher version 0.7.3**](http://7d.l9000.co.uk/SDX073.rar) to build it.  
+[**Non-SDX modlet version here**](https://github.com/manux32/7d2d_A17_modlets).
 
 ## Vids
 ### 1st early A17 Custom Vehicle test...  More vids coming soon...
