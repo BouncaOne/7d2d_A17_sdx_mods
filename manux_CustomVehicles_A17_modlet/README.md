@@ -25,10 +25,9 @@ This is the SDX version of this modlet. Use [**A17 SDX Launcher version 0.7.3**]
 [**Non-SDX modlet version here**](https://github.com/manux32/7d2d_A17_modlets).
 
 ## Vids
-### 1st early A17 Custom Vehicle test...  More vids coming soon...
-| [![driveable cars](http://img.youtube.com/vi/DFgJ6jnk9gA/0.jpg)](https://youtu.be/DFgJ6jnk9gA "A17 - First custom Vehicle Test") |  
+| [![new toys](http://img.youtube.com/vi/OKTsIO4xcEI/0.jpg)](https://youtu.be/OKTsIO4xcEI "A17 - New toys in action") |  
 |:---:|   
-|A17 - First custom Vehicle Test|   
+|A17 - New toys in action|   
 
 # Terms of use  
 
