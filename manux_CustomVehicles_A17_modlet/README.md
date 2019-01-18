@@ -28,9 +28,9 @@ This is the SDX version of this modlet. Use [**A17 SDX Launcher version 0.7.3**]
 [**Non-SDX modlet version here**](https://github.com/manux32/7d2d_A17_modlets).
 
 ## Vids
-| [![new toys](http://img.youtube.com/vi/OKTsIO4xcEI/0.jpg)](https://youtu.be/OKTsIO4xcEI "A17 - New toys in action") |  
-|:---:|   
-|A17 - New toys in action|   
+| [![new toys](http://img.youtube.com/vi/OKTsIO4xcEI/0.jpg)](https://youtu.be/OKTsIO4xcEI "A17 - New toys in action") | [![monster beetle](http://img.youtube.com/vi/vpqBS0liAQM/0.jpg)](https://youtu.be/vpqBS0liAQM "Monster Beetle") | [![helico and Jet Pack](http://img.youtube.com/vi/7U7VUzD9iWM/0.jpg)](https://youtu.be/7U7VUzD9iWM "Helico and Jet Pack") | [![Pedal Gyro](http://img.youtube.com/vi/AM6buSS7lbs/0.jpg)](https://youtu.be/AM6buSS7lbs "Human-powered Gyrocopter") |  
+|:---:|:---:|:---:|:---:|  
+|A17 - New toys in action|Monster Beetle|Helico and Jet Pack|Human-powered Gyrocopter|    
 
 # Terms of use  
 
