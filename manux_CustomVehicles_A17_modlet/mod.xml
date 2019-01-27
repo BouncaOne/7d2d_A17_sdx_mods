@@ -4,9 +4,9 @@
 		<!-- These are displayed in the SDX Launcher -->
 		<author>manux</author>
 		<name>manux_CustomVehicles_A17_modlet</name>
-		<description>An XML-only Custom Vehicles modlet that adds some of the Vehicles from my A16 mod</description>
+		<description>An XML-only Custom Vehicles modlet that adds some of the Vehicles from my A16 mod, and some new ones. No C# code, so not all my A16 features are there. For example: no weapons features.</description>
 		<mod_version>1.0</mod_version>
-		<game_version>17e</game_version>
+		<game_version>17</game_version>
 		<launcher_version>0.7.3</launcher_version>
 	</info>
 </mod>
